@@ -18,6 +18,7 @@ Bienvenue sur l'index central de mes projets. Ce dépôt sert de point d'entrée
 ### 📱 Mobile & Multi-plateforme
 | Projet | Lien GitHub | Clone Command |
 | :--- | :--- | :--- |
+| **Secure App Lock** | [🔗 Voir](https://github.com/Deogratiasdev/app-lock) | `git clone https://github.com/Deogratiasdev/app-lock.git` |
 | **My Book v2** | [🔗 Voir](https://github.com/Deogratiasdev/my-book-v2) | `git clone https://github.com/Deogratiasdev/my-book-v2.git` |
 | **Gen Z App** | [🔗 Voir](https://github.com/Deogratiasdev/gen-z) | `git clone https://github.com/Deogratiasdev/gen-z.git` |
 
