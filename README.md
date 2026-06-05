@@ -1,35 +1,47 @@
 # 📋 Résumé des Projets - Déo-Gratias HOUNNOU
 
-Bienvenue sur l'index central de mes projets. Ce dépôt sert de point d'entrée pour explorer l'ensemble de mes réalisations, des applications mobiles aux serveurs backend, en passant par des outils pour développeurs.
+Bienvenue sur l'index central de mes projets. Ce dépôt sert de point d'entrée pour explorer l'ensemble de mes réalisations.
+
+> **Astuce** : Cliquez sur les liens pour voir le code, ou utilisez l'URL pour cloner le projet.
 
 ## 🚀 Écosystème d'Applications
 
 ### 🌐 Web & Plateformes
-- **[Mon site](https://github.com/Deogratiasdev/Mon-site)** : Portfolio principal, store et espace SDK.
-- **[e-Oneline Profil](https://github.com/Deogratiasdev/e-Oneline-Profil)** : Plateforme de gestion de profils professionnels.
-- **[Portefoliot (Grts)](https://github.com/Deogratiasdev/Grts)** : Vitrine créative et immersive.
-- **[Public](https://github.com/Deogratiasdev/app)** : Page de téléchargement et landing page pour My Book.
-- **[Camelis DG Front](https://github.com/Deogratiasdev/camelis-dg-front)** : Interface de sécurité bancaire IA.
+| Projet | Lien GitHub | Clone Command |
+| :--- | :--- | :--- |
+| **Mon site** | [🔗 Voir](https://github.com/Deogratiasdev/Mon-site) | `git clone https://github.com/Deogratiasdev/Mon-site.git` |
+| **e-Oneline Profil** | [🔗 Voir](https://github.com/Deogratiasdev/e-Oneline-Profil) | `git clone https://github.com/Deogratiasdev/e-Oneline-Profil.git` |
+| **Portefoliot (Grts)** | [🔗 Voir](https://github.com/Deogratiasdev/Grts) | `git clone https://github.com/Deogratiasdev/Grts.git` |
+| **Public** | [🔗 Voir](https://github.com/Deogratiasdev/app) | `git clone https://github.com/Deogratiasdev/app.git` |
+| **Camelis DG Front** | [🔗 Voir](https://github.com/Deogratiasdev/camelis-dg-front) | `git clone https://github.com/Deogratiasdev/camelis-dg-front.git` |
 
 ### 📱 Mobile & Multi-plateforme
-- **[My Book v2](https://github.com/Deogratiasdev/my-book-v2)** : App de synchronisation avancée (Flutter/Supabase).
-- **[Gen Z App](https://github.com/Deogratiasdev/gen-z)** : Application mobile moderne (Flutter/Supabase).
+| Projet | Lien GitHub | Clone Command |
+| :--- | :--- | :--- |
+| **My Book v2** | [🔗 Voir](https://github.com/Deogratiasdev/my-book-v2) | `git clone https://github.com/Deogratiasdev/my-book-v2.git` |
+| **Gen Z App** | [🔗 Voir](https://github.com/Deogratiasdev/gen-z) | `git clone https://github.com/Deogratiasdev/gen-z.git` |
 
 ### 🛠️ Outils & SDK
-- **[InputDev](https://github.com/Deogratiasdev/InputDev)** : SDK et plateforme de gestion de formulaires.
-- **[ID PRO GENERATOR](https://github.com/Deogratiasdev/carte-carte)** : Générateur professionnel de cartes scolaires.
-- **[QR Generator](https://github.com/Deogratiasdev/qr)** : PWA de génération de codes QR (Vue 3).
-- **[vue.js](https://github.com/Deogratiasdev/vue.js)** : Template d'application moderne (Vue 3/Firebase/TS).
+| Projet | Lien GitHub | Clone Command |
+| :--- | :--- | :--- |
+| **InputDev** | [🔗 Voir](https://github.com/Deogratiasdev/InputDev) | `git clone https://github.com/Deogratiasdev/InputDev.git` |
+| **ID PRO GENERATOR** | [🔗 Voir](https://github.com/Deogratiasdev/carte-carte) | `git clone https://github.com/Deogratiasdev/carte-carte.git` |
+| **QR Generator** | [🔗 Voir](https://github.com/Deogratiasdev/qr) | `git clone https://github.com/Deogratiasdev/qr.git` |
+| **vue.js** | [🔗 Voir](https://github.com/Deogratiasdev/vue.js) | `git clone https://github.com/Deogratiasdev/vue.js.git` |
 
 ### 🛡️ Backend & Serveurs
-- **[Serveur Central (Server)](https://github.com/Deogratiasdev/Server)** : Backend centralisé sous Hono.
-- **[grts-back](https://github.com/Deogratiasdev/grts-back)** : API de contact (Turso/BullMQ/Brevo).
-- **[Camelis DG Back](https://github.com/Deogratiasdev/camelis-dg-back)** : API FastAPI sécurisée.
-- **[Hono Render](https://github.com/Deogratiasdev/hono-render)** : Serveur API minimaliste.
+| Projet | Lien GitHub | Clone Command |
+| :--- | :--- | :--- |
+| **Serveur Central** | [🔗 Voir](https://github.com/Deogratiasdev/Server) | `git clone https://github.com/Deogratiasdev/Server.git` |
+| **grts-back** | [🔗 Voir](https://github.com/Deogratiasdev/grts-back) | `git clone https://github.com/Deogratiasdev/grts-back.git` |
+| **Camelis DG Back** | [🔗 Voir](https://github.com/Deogratiasdev/camelis-dg-back) | `git clone https://github.com/Deogratiasdev/camelis-dg-back.git` |
+| **Hono Render** | [🔗 Voir](https://github.com/Deogratiasdev/hono-render) | `git clone https://github.com/Deogratiasdev/hono-render.git` |
 
 ### 📚 Éducation & Mathématiques
-- **[Structure de données](https://github.com/Deogratiasdev/structure)** : Guide interactif sur le langage C.
-- **[Coniques](https://github.com/Deogratiasdev/graph)** : Plateforme d'étude géométrique interactive.
+| Projet | Lien GitHub | Clone Command |
+| :--- | :--- | :--- |
+| **Structure de données** | [🔗 Voir](https://github.com/Deogratiasdev/structure) | `git clone https://github.com/Deogratiasdev/structure.git` |
+| **Coniques** | [🔗 Voir](https://github.com/Deogratiasdev/graph) | `git clone https://github.com/Deogratiasdev/graph.git` |
 
 ---
 **Déo-Gratias HOUNNOU** - [GitHub Profile](https://github.com/Deogratiasdev)
